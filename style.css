@@ -1285,7 +1285,7 @@ header .navbar-brand .social-icon a {
   width: 100%;
   margin-bottom: 5em;
   min-height: 700px;
-  background: #fff url(loader.html) no-repeat center center;
+  background: #fff url("loader.html") no-repeat center center;
   z-index: 1;
 }
 
