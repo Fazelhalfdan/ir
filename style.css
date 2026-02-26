@@ -425,7 +425,7 @@ hr {
 
 .bg-dots {
   width: 100%;
-  background-image: url(../images/tab-bg-elements.png);
+  background-image: url(tab-bg-elements.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -433,7 +433,7 @@ hr {
 
 .bg-dots-black {
   width: 100%;
-  background-image: url(../images/bg-dots.svg);
+  background-image: url(bg-dots.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
